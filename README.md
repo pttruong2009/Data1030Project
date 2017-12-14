@@ -28,11 +28,11 @@ Files
 
 Built With
 
-Tkinter - The UI framework used
-Google Earth Pro - Visualization framework
+1. Tkinter - The UI framework used
+2. Google Earth Pro - Visualization framework
 
 Authors
 
-Phuong Truong
-Cynthia Vu
+Phuong Truong, 
+Cynthia Vu, 
 Tony Wu
